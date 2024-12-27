@@ -1,0 +1,1 @@
+./configure --without-java --without-go --without-python --without-kotlin --without-php --without-d --without-netstd --without-lua --without-py3 --without-ruby --without-rs --without-swift --without-perl --without-nodejs --without-haxe --without-erlang --without-dart --with-dpdk=/usr/local  CXXFLAGS="-mssse3" CPPFLAGS="-I/usr/local/include" LDFLAGS="-L/usr/local/lib"
